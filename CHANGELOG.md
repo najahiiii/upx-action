@@ -1,4 +1,7 @@
 # Changelog
+## [2.4.2] - 2024-05-09
+- Update upx to 4.2.3
+
 ## [2.4.1] - 2024-02-21
 - Update upx to 4.2.2
 
